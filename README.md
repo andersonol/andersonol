@@ -17,7 +17,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
-  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png />
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
+           
+  <img align="right" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/209096519658373120/ea77abd3b4edb7deab09bc9be315a51d.webp?size=160">
+                                               
 </div>
 
 
