@@ -19,10 +19,32 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
            
-  <img align="right" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/209096519658373120/ea77abd3b4edb7deab09bc9be315a51d.webp?size=160">
-                                               
+  <img align="right" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/209096519658373120/ea77abd3b4edb7deab09bc9be315a51d.webp?size=160">                                              
 </div>
-
+  
+##
+  
+<div> 
+  <a href="https://www.youtube.com/andersonol" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/andersonol" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://www.twitch.tv/andersonol81" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+ <a href="https://discordapp.com/users/8072" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:anderson.ol@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/andersonol" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+</div>
 
   
 <!--
